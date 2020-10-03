@@ -14,7 +14,7 @@ Ticker - YFIC
 
 Coin Type	- ERC20 Smart Contract
 
-Total Supply - 75,000,000
+Total Supply - 75,000
 
 Decimals - 18
 
